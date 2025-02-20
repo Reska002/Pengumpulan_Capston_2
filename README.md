@@ -1,8 +1,8 @@
-# **LATAR BELAKANG**
+# **Latar Belakang**
 AWS SaaS (Software as a Service) Sales adalah penjualan layanan berbasis cloud yang ditawarkan oleh Amazon Web Services dalam model SaaS. Dalam model ini, AWS menyediakan platform infrastruktur cloud, sedangkan penyedia SaaS mengembangkan dan mendistribusikan perangkat lunak yang dapat diakses oleh pelanggan melalui internet tanpa perlu pengelolaan fisik.
 AWS memfasilitasi perusahaan SaaS untuk menciptakan, mendistribusikan, dan memasarkan produk mereka secara global. Dalam konteks penjualan, ini melibatkan strategi untuk mendekati pelanggan potensial, memahami kebutuhan bisnis mereka, dan mempromosikan solusi berbasis cloud sebagai cara untuk meningkatkan efisiensi, skalabilitas, dan penghematan biaya.
 
-# **RUMUSAN DAN TUJUAN MASALAH**
+# **Rumusan dan Tujuan Masalah**
 Perusahaan menghadapi tantangan besar dalam mengoptimalkan penjualan dan profit karena:
 1. Efisiensi Penjualan dan Profit
 - Penjualan tidak merata di wilayah tertentu.
